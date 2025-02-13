@@ -27,7 +27,7 @@ The webpage is styled using CSS, which is included in the `qr.css` file. The sty
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - ([https://www.your-site.com](https://otunba32.github.io/QR-code-component/))
 - Frontend Mentor - [@otunba32](https://www.frontendmentor.io/profile/otunba32)
 - Twitter - [@otunba_Abia](https://www.twitter.com/otunba_Abia)
 
